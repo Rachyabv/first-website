@@ -1,0 +1,40 @@
+body{
+    background-color: white;
+}
+#first{
+    font-style: unset;
+    color: rgb(177, 92, 165);
+}
+#second{
+        font-style: unset;
+        color: darkred;
+}
+#third{
+    font-style: unset;
+    color: chocolate;
+}
+    
+#ada{
+    height: 200px;
+}
+#logo{
+    height: 150px;
+}
+
+#ufoma{
+    height: 200px;
+}
+#text{
+    font-size: medium;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: 150;
+    font-variant-position: inherit;
+    display: inline-block;
+}
+footer{
+    background-color: darkmagenta;
+    height: 50px;
+    text-align: center;
+    text-decoration: aliceblue;
+}
+
